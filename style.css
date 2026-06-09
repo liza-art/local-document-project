@@ -1,4 +1,4 @@
-a:link {
+/* a:link {
   color: black;
   background-color: yellow;
   border: green solid 2px;
@@ -22,4 +22,26 @@ a:active {
   color: green;
   border: none;
   font-size: 89px;
+} */
+
+a:link {
+  color: #2563eb;
+}
+
+a:visited {
+  color: #7c3aed;
+}
+
+a:hover {
+  background-color: grey;
+}
+
+a:focus {
+  border: none;
+  margin: 100px;
+  background-color: green;
+}
+
+a:active {
+  font-size: 40px;
 }
