@@ -1,0 +1,25 @@
+a:link {
+  color: black;
+  background-color: yellow;
+  border: green solid 2px;
+  font-size: 85px;
+}
+
+a:visited {
+  color: white;
+}
+
+a:hover {
+  color: red;
+  font-size: 35px;
+}
+
+a:focus {
+  border: red 3px solid;
+}
+
+a:active {
+  color: green;
+  border: none;
+  font-size: 89px;
+}
